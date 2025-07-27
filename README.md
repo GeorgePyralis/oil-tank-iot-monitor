@@ -9,7 +9,7 @@ This Arduino-based IoT project enables real-time monitoring of the volume and co
 - 🌡️ **Environmental Temperature Sensing**: Measures ambient temperature near the tank to adjust oil volume via thermal expansion formula.
 - 🚦 **Overflow/Low Level Alerts**: Notifies through LEDs when tank reaches critical low or high levels.
 - 📈 **Daily Usage Logging**: At the end of each day, logs the consumed litres and average temperature for that day.
-- 📤 **Wireless Report**: Sends a summary log (e.g. `14624_67_15`, meaning June 17th: 67L consumed, avg temp 15°C) via WiFi for remote availability.
+- 📤 **Wireless Report**: Sends a summary log (e.g. `14624_67_15`, meaning June 14th: 67L consumed, avg temp 15°C) via WiFi for remote availability.
 
 ## 🔧 Hardware & Components
 
